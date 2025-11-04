@@ -1,0 +1,10 @@
+print("Zaman yolculuğu başlıyor...")
+ad=input("İsmin nedir?: ")
+yıl=input("Hangi yıla gitmek istiyosun?: ")
+yer=input("Nereye gitmek istiyorsun?: ")
+esya=input("Yanına bir eşya alacak olsan ne almak istersin?: ")
+kisiyadacanli=input(f"{yıl} yılında kimle veya ne ile karşılaşmak istersin?: ")
+arkadas=input("Yolculukta yanına kimi almak istersin?: ")
+sure=input(f"{yıl} yılında kaç gün kalmak istersin?: ")
+
+print(f"Merhaba {ad}, {arkadas} ile beraber {yıl} yılına gidiyorsun. {yer} yerinde {sure} gün kalacaksın. Yanında {esya} olacak ve {kisiyadacanli} ile karşılaşacaksın. Yolun açık olsun...")
