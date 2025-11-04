@@ -20,17 +20,17 @@ tutarı
 
 Görev 3
 Liste: arabalar = ["Bmw", "Mercedes", "Opel", "Totoya", "Renault", "Audi"]
-# 1- Listenin kendisi
-# 2- Liste kaç elemanlıdır
-# 3- Listenin ilk ve son elemanı nedir?
-# 4- Mazda değerini Toyota ile değiştirin
-# 5- Mercedes listenin bir elemanı mıdır?
-# 6- Listenin sondan 2. değeri nedir?
-# 7- Listenin ilk 3 elemanını alın
-# 8- Listenin son 2 elemanı yerine "Totoya" ve "Renault" değerlerini ekleyin
-# 9- Listenin üzerine "Audi" ve "Nissan" değerlerini ekleyin
-# 10- Listenin son elemanını silin
-# 11- Liste elemanlarını tersten yazdırınız
+1- Listenin kendisi
+2- Liste kaç elemanlıdır
+3- Listenin ilk ve son elemanı nedir?
+4- Mazda değerini Toyota ile değiştirin
+5- Mercedes listenin bir elemanı mıdır?
+6- Listenin sondan 2. değeri nedir?
+7- Listenin ilk 3 elemanını alın
+8- Listenin son 2 elemanı yerine "Totoya" ve "Renault" değerlerini ekleyin
+9- Listenin üzerine "Audi" ve "Nissan" değerlerini ekleyin
+10- Listenin son elemanını silin
+11- Liste elemanlarını tersten yazdırınız
 
 Önemli
 Python Temel Liste Fonksiyonları / Metotları
